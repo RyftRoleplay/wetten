@@ -10,4 +10,4 @@ Open eerst een issue voor een pull request, zo kan hier in aangegeven worden of 
 
 Gebaseerd op de FiveM Wettenbundel van Edward Bakker (discord: that.edward) & Jim Blume (discord: emeraldshovel74).
 
-Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2022-2023
+Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2024
