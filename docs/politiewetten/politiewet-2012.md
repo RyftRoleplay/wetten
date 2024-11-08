@@ -59,7 +59,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 
 #### Artikel 8 PW 2012 [Vorderen inzage identiteitsbewijs]
 
-1. Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht#artikel-1-wid) van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.
+1. Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in [artikel 1](../overig/wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.
 2. Gelijke bevoegdheid komt toe aan de militair van de Koninklijke marechaussee, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van zijn politietaak, bedoeld in [artikel 4](#artikel-4-pw-2012-politietaken-koninklijke-marechaussee), eerste lid, en aan de militair van de Koninklijke marechaussee of van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie.
 
 #### Artikel 9 PW 2012 [Ambtsinstructie]
