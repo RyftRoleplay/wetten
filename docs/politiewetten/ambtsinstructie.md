@@ -56,7 +56,7 @@
     1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat deze:
         - 1° een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken, of
         - 2° aanstonds ander levensbedreigend geweld tegen personen zal gebruiken;
-    2. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld en:
+    2. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld en:
         - 1° dat een ernstige aantasting vormt van de lichamelijke integriteit,
         - 2° betrekking heeft op het zich wederrechtelijk bevinden in een woning of op het daarbij behorende besloten erf met gebruik van geweld of bedreiging met geweld tegen personen, of,
         - 3° dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
