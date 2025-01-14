@@ -15,10 +15,11 @@ Deze grondbeginselen vormen de basis voor een integer strafproces en bevatten be
     1. De rechter, indien het een zaak betreft die aan de rechter wordt/is voorgelegd;
     2. De (hulp-) officier van justitie;
     3. De hoogste in rang die op dat moment in de stad is, indien geen (hulp-) officier van justitie beschikbaar is.
-3. De maximale strafmaat bedraagt **360** maanden.
-    1. Voor de algemeen opsporingsambtenaar is de maximale strafmaat **80** maanden, [artikel 369a](./wetboek-van-strafvordering.md#artikel-369a-wvsv-maximumstraf-opsporingsambtenaar) WvSv;
-    2. Voor de officier van Justitie is de maximale strafmaat **120** maanden, [artikel 369b](./wetboek-van-strafvordering.md#artikel-369b-wvsv-maximumstraf-officier-van-justitie) WvSv;
-    3. Voor de politierechter is de maximale strafmaat **180** maanden, [artikel 369](./wetboek-van-strafvordering.md#artikel-369-wvsv-maximumstraf-verwijzing-naar-meervoudige-kamer) WvSv.
+3. De maximale strafmaat bedraagt:
+    1. **80** maanden voor de algemeen opsporingsambtenaar (een politieagent), [artikel 369a](./wetboek-van-strafvordering.md#artikel-369a-wvsv-maximumstraf-opsporingsambtenaar) WvSv;
+    2. **120** maanden voor de officier van Justitie, [artikel 369b](./wetboek-van-strafvordering.md#artikel-369b-wvsv-maximumstraf-officier-van-justitie) WvSv;
+    3. **180** maanden voor de politierechter, [artikel 369](./wetboek-van-strafvordering.md#artikel-369-wvsv-maximumstraf-verwijzing-naar-meervoudige-kamer) WvSv.
+    4. **360** maanden voor de meervoudige kamer.
 
 ### Deel 2 - Mededeling van de rechten
 
