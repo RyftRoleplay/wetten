@@ -39,9 +39,9 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 #### Artikel 10 WvSr [Duur van gevangenisstraf]
 
 1. De gevangenisstraf is levenslang of tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste 300 maanden.
-3. Zij kan voor ten hoogste 360 achtereenvolgende maanden worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-wvsr-strafverhoging-voor-ambtenaar), de tijd van 300 maanden wordt overschreden.
-4. Zij kan in geen geval de tijd van 360 maanden te boven gaan.
+2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste vijfentwintig jaren.
+3. Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-wvsr-strafverhoging-voor-ambtenaar), de tijd van 300 maanden wordt overschreden.
+4. Zij kan in geen geval de tijd van dertig jaren te boven gaan.
 
 #### Artikel 23 WvSr [Geldboete. Categorieën]
 
@@ -128,7 +128,23 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.
 2. De verplichting kan worden opgelegd aan de in het eerste lid bedoelde persoon die voordeel heeft verkregen door middel van of uit de baten van het daar bedoelde feit of andere strafbare feiten, waaromtrent voldoende aanwijzingen bestaan dat zij door de veroordeelde zijn begaan.
 
+#### Artikel 37a WvSr [Terbeschikkingstelling]
+
+1. Indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen dat eist, kan de rechter gelasten dat een verdachte ter beschikking wordt gesteld indien hij tot het oordeel komt dat:
+    - 1° bij de verdachte tijdens het begaan van het feit gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond; en
+    - 2° het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld dan wel behoort tot een van de misdrijven omschreven in de [artikelen 132](#artikel-132-wvsr-verspreiding-opruiend-geschrift), [285, eerste lid](#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf) en [285b](#artikel-285b-wvsr-stalking) van het Wetboek van Strafrecht, [175, tweede lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6), onderdeel b, of [derde lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6) in verbinding met het [eerste lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6), onderdeel b, van de Wegenverkeerswet 1994, en [11, tweede lid](./opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), van de Opiumwet.
+2. Bij toepassing van het vorige lid kan de rechter afzien van het opleggen van straf, ook indien hij oordeelt dat het feit wel aan de verdachte kan worden toegerekend.
+
+#### Artikel 37b WvSr [TBS met dwangverpleging]
+
+1. De rechter kan bevelen dat de ter beschikking gestelde van overheidswege wordt verpleegd, indien de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen de verpleging eist.
+2. Indien de rechter naast de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege een gevangenisstraf heeft opgelegd kan de rechter in zijn uitspraak een advies opnemen omtrent het tijdstip waarop de terbeschikkingstelling met verpleging van overheidswege dient aan te vangen.
+
 ### Titel III [Uitsluiting en verhoging van strafbaarheid]
+
+#### Artikel 39 WvSr [Ontoerekeningsvatbaarheid]
+
+Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap niet kan worden toegerekend.
 
 #### Artikel 40 WvSr [Overmacht]
 
@@ -325,6 +341,12 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
+#### Artikel 132 WvSr [Verspreiding opruiend geschrift]
+
+1. Hij die een geschrift of afbeelding waarin tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag wordt opgeruid, verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding zodanige opruiing voorkomt, gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
+2. Met dezelfde straf wordt gestraft hij die, met gelijke wetenschap of een gelijke reden tot vermoeden, de inhoud van een zodanig geschrift openlijk ten gehore brengt.
+3. Indien het strafbare feit waartoe bij geschrift of afbeelding wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
+
 #### Artikel 138 WvSr [Huisvredebreuk]
 
 1. Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
@@ -390,8 +412,9 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 #### Artikel 140a WvSr [Deelneming aan terroristische organisatie]
 
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van terroristische misdrijven, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
-2. Oprichters, leiders of bestuurders worden gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
-3. Het vijfde lid van [artikel 140](#artikel-140-wvsr-deelneming-aan-criminele-organisatie) is van overeenkomstige toepassing.
+2. Indien een organisatie tot oogmerk heeft het plegen van terroristische misdrijven waarop naar de wettelijke omschrijving een levenslange gevangenisstraf is gesteld, wordt het in het eerste lid bedoelde feit gestraft met gevangenisstraf van ten hoogste twintig jaren of geldboete van de vijfde categorie.
+3. Oprichters, leiders of bestuurders worden gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
+4. Het vijfde lid van [artikel 140](#artikel-140-wvsr-deelneming-aan-criminele-organisatie) is van overeenkomstige toepassing.
 
 #### Artikel 141 WvSr [Openlijke geweldpleging]
 
@@ -513,10 +536,17 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 ### Titel XII [Valsheid met geschriften, gegevens en biometrische kenmerken]
 
+#### Artikel 225 WvSr [Valsheid in geschrift]
+
+1. Hij die een geschrift dat bestemd is om tot bewijs van enig feit te dienen, valselijk opmaakt of vervalst, met het oogmerk om het als echt en onvervalst te gebruiken of door anderen te doen gebruiken, wordt als schuldig aan valsheid in geschrift gestraft, met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
+2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt van het valse of vervalste geschrift als ware het echt en onvervalst dan wel opzettelijk zodanig geschrift aflevert of voorhanden heeft, terwijl hij weet of redelijkerwijs moet vermoeden dat dit geschrift bestemd is voor zodanig gebruik.
+3. Indien een feit, omschreven in het eerste of tweede lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+
 #### Artikel 231 WvSr [Vals reisdocument of identiteitskaart]
 
 1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1](overig/wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.
+3. [Artikel 225, derde lid](#artikel-225-wvsr-valsheid-in-geschrift), is van overeenkomstige toepassing.
 
 ### Titel XVI [Belediging]
 
