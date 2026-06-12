@@ -1,9 +1,24 @@
-<!-- Het wordt aanbevolen om wijzigingen door te voeren naar een nieuwe branch op uw fork. Vermijd het direct bewerken van de `main` branch. -->
+<!-- Werk bij voorkeur op een aparte branch. Vermijd directe wijzigingen op `main`. -->
 
-Lost issue #<!-- issue ID hier --> <!-- indien van toepassing. --> op.
+## Gerelateerd issue
 
-#### Wijzigingen voorgesteld in deze pull-request
+Fixes #<!-- issue ID, indien van toepassing -->
 
-- <!-- Beschrijf de verandering in deze pull request. -->
+## Samenvatting
 
-- [ ] ik heb het getest en geverifieerd dat alles werkt.
+- <!-- Beschrijf kort wat deze pull request wijzigt. -->
+
+## Type wijziging
+
+- [ ] Correctie van bestaande inhoud
+- [ ] Nieuwe wetgeving, pagina of bron
+- [ ] Navigatie, opmaak of documentatiestructuur
+- [ ] Workflow, template of onderhoud
+
+## Checklist
+
+- [ ] Ik heb gecontroleerd of er al een vergelijkbaar issue of pull request bestaat.
+- [ ] Ik heb relevante bronnen, artikelen of context toegevoegd.
+- [ ] Ik heb `mkdocs.yml` bijgewerkt als er een nieuwe pagina is toegevoegd.
+- [ ] Ik heb de Markdown-opmaak gecontroleerd.
+- [ ] `mkdocs build --strict` slaagt lokaal of in CI.

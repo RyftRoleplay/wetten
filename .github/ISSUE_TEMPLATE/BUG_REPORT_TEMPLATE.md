@@ -1,10 +1,27 @@
 ---
 name: Bug melding
-about: Creeër een bug melding om ons te helpen verbeteren
+about: Meld onjuiste, ontbrekende of verwarrende inhoud
+title: "[Bug]: "
 ---
 
-### Wat wordt er verwacht
-<!-- een korte en duidelijk beschrijving van wat er verwacht wordt. -->
+## Pagina of onderdeel
 
-### Wat staat er momenteel
-<!-- een korte en duidelijk beschrijving van wat er zou moeten staan. -->
+<!-- Link naar de pagina of noem het document/onderdeel waar de bug staat. -->
+
+## Wat staat er momenteel?
+
+<!-- Beschrijf kort en duidelijk wat er nu staat. -->
+
+## Wat zou er moeten staan?
+
+<!-- Beschrijf kort en duidelijk wat volgens jou correct is. -->
+
+## Bronnen of onderbouwing
+
+<!-- Voeg relevante wetsartikelen, beleidsregels, jurisprudentie of andere bronnen toe. -->
+
+-
+
+## Extra context
+
+<!-- Voeg eventuele screenshots, toelichting of aanvullende context toe. -->
