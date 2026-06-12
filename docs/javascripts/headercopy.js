@@ -1,26 +1,33 @@
-let headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+document.addEventListener("DOMContentLoaded", function () {
+  const headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
 
-Array.from(headers).forEach(function (element) {
-    element.addEventListener('click', onClickHeader, false)
-})
+  Array.from(headers).forEach(function (element) {
+    element.addEventListener("click", onClickHeader, false);
+  });
 
-function onClickHeader(element) {
-    let string = element.srcElement.innerText
-    if (navigator && navigator.clipboard && navigator.clipboard.writeText)
-        return navigator.clipboard.writeText(string.slice(0, -1));
-    return Promise.reject('The Clipboard API is not available.');
-};
+  const links = document.getElementsByClassName("headerlink");
 
-let links = document.getElementsByClassName("headerlink");
-Array.from(links).forEach(function (element) {
-    element.addEventListener('click', onClickLink, false)
-})
+  Array.from(links).forEach(function (element) {
+    element.addEventListener("click", onClickLink, false);
+  });
+});
 
 function onClickLink() {
-    setTimeout(() => {
-        let url = window.location.href;
-        if (navigator && navigator.clipboard && navigator.clipboard.writeText)
-            return navigator.clipboard.writeText(url);
-        return Promise.reject('The Clipboard API is not available.');
-    }, 10);
-};
+  setTimeout(function () {
+    const url = window.location.href;
+    copyText(url);
+  }, 10);
+}
+
+function onClickHeader(event) {
+  const text = event.currentTarget.innerText;
+  copyText(text.slice(0, -1));
+}
+
+function copyText(text) {
+  if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
+    return navigator.clipboard.writeText(text);
+  }
+
+  return Promise.reject("The Clipboard API is not available.");
+}

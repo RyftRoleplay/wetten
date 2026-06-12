@@ -9,27 +9,21 @@ extra:
   generator: false
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - toc.follow
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: ryft
+    primary: custom
+    accent: custom
   language: nl
   logo: assets/logo.png
   favicon: assets/logo.png
   font:
-    text: 'Fira Sans,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif'
+    text: Inter
+    code: JetBrains Mono
 markdown_extensions:
   - toc:
       permalink: "#"
